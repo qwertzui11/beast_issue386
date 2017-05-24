@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 // #include <beast/core/multi_buffer.hpp>
 // #include <beast/core/buffers_adapter.hpp>
 #include <beast/core.hpp>
-=======
-#include <beast/core/multi_buffer.hpp>
-#include <beast/core/buffers_adapter.hpp>
->>>>>>> 24574c66872d7a30e746ef85f20d161498150e10
 #include <beast/http.hpp>
 #include <boost/asio.hpp>
 
