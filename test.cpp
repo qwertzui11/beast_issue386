@@ -1,5 +1,6 @@
-#include <beast/core/multi_buffer.hpp>
-#include <beast/core/buffers_adapter.hpp>
+// #include <beast/core/multi_buffer.hpp>
+// #include <beast/core/buffers_adapter.hpp>
+#include <beast/core.hpp>
 #include <beast/http.hpp>
 #include <boost/asio.hpp>
 
